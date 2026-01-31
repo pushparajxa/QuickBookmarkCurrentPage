@@ -34,7 +34,7 @@ A Firefox WebExtension that adds a "Bookmark current page here" option to the co
 3. Select "Bookmark current page here" from the context menu
 4. The current page will be bookmarked in the selected folder
 
-[Usage](./images/QuickBookmarkCurrentPage_Usage_Image.png)
+<img src="./images/QuickBookmarkCurrentPage_Usage_Image.png">
 
 
 ## Files
