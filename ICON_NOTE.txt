@@ -1,0 +1,13 @@
+NOTE: You need to add an icon.png file (96x96 pixels) to this directory.
+The extension will work without it, but having an icon makes it look better in the addons manager.
+
+You can create a simple icon or download one. The icon should be:
+- 48x48 pixels (for small icon)
+- 96x96 pixels (for larger icon)
+- PNG format
+
+For now, the extension will work without the icon file.
+
+
+
+
